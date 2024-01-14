@@ -1,1 +1,9 @@
 .env
+#for ignore folder
+# /ignore 
+
+#for ignore file type
+/ignore/*.css
+
+#for ignore spesific file 
+/ignore/spesific.js
