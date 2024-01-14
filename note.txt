@@ -1,0 +1,10 @@
+#create branch 
+ git checkout -b "branch name"
+#move branch
+ git checkout "branch name"
+
+#git merge 
+ git merge <branch name yang mau di merge ke branch yang sedang aktif>
+
+#git reset 
+untuk mereset git add . 
