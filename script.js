@@ -1,3 +1,0 @@
-function tryPushPull(params) {
-    return;
-}
